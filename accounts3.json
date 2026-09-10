@@ -1,0 +1,242 @@
+{
+  "telegram": {
+    "enabled": false,
+    "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "chat_id": "YOUR_TELEGRAM_CHAT_ID"
+  },
+  "settings": {
+    "loop_mode": false,
+    "loop_interval_hours": 6,
+    "auto_daily_gift": true,
+    "auto_push_taps": true,
+    "max_taps": 1000,
+    "tap_batch_size": 50,
+    "tap_delay_min": 1.0,
+    "tap_delay_max": 2.5,
+    "auto_upgrade_components": true,
+    "auto_upgrade_node_tier": true,
+    "auto_claim_quests": true,
+    "auto_pray": false,
+    "pray_room": "together",
+    "prayer_messages": [
+      "Semoga ekosistem 9Chain semakin sukses, berkah, dan maju untuk semua.",
+      "Wishing health, happiness, and peace for everyone in 9Chain community.",
+      "May this project bring good fortune and growth to all nodes.",
+      "Semoga hari ini penuh berkah dan kelancaran untuk kita semua.",
+      "Peace, prosperity, and blessings to the global 9Chain family.",
+      "Keep building, keep growing, wishing success for 9Chain testnet and mainnet."
+    ]
+  },
+  "accounts": [
+    {
+      "name": "Akun 1",
+      "email": "oguri_cap_405@indomail.pp.ua",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 2",
+      "email": "shinko_windy_273@zybra.eu.org",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 3",
+      "email": "mejiro_ardan_230@genix.eu.org",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 4",
+      "email": "twin_turbo_182@sewaemail.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 5",
+      "email": "dantsu_flame_142@machan.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 6",
+      "email": "hishi_miracle_926@aniflix.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 7",
+      "email": "t_m_opera_o_781@nukedmail.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 8",
+      "email": "daring_tact_690@indomail.pp.ua",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 9",
+      "email": "gentildonna_771@zybra.eu.org",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 10",
+      "email": "tamamo_cross_284@genix.eu.org",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 11",
+      "email": "inari_one_830@sewaemail.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 12",
+      "email": "grass_wonder_603@nukedmail.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 13",
+      "email": "tanino_gimlet_599@machan.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 14",
+      "email": "sakura_bakushin_o_756@aniflix.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 15",
+      "email": "machikane_tannhauser_814@indomail.pp.ua",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 16",
+      "email": "buena_vista_336@zybra.eu.org",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 17",
+      "email": "yukino_bijin_313@genix.eu.org",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 18",
+      "email": "symboli_kris_s_388@sewaemail.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 19",
+      "email": "tanino_gimlet_427@nukedmail.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 20",
+      "email": "agnes_tachyon_993@machan.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 21",
+      "email": "daring_tact_105@aniflix.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 22",
+      "email": "admire_vega_184@machan.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 23",
+      "email": "maruzensky_775@nukedmail.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 24",
+      "email": "kitasan_black_149@sewaemail.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 25",
+      "email": "sakura_chiyono_o_858@genix.eu.org",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 26",
+      "email": "sweep_tosho_628@indomail.pp.ua",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 27",
+      "email": "sweep_tosho_633@zybra.eu.org",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 28",
+      "email": "symboli_rudolf_648@aniflix.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 29",
+      "email": "stil_in_love_223@machan.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 30",
+      "email": "mejiro_palmer_777@nukedmail.my.id",
+      "password": "Fafa1234@",
+      "totp_code": "",
+      "proxy": ""
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "telegram": {
+    "enabled": false,
+    "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "chat_id": "YOUR_TELEGRAM_CHAT_ID"
+  },
+  "settings": {
+    "loop_mode": false,
+    "loop_interval_hours": 6,
+    "auto_daily_gift": true,
+    "auto_push_taps": true,
+    "max_taps": 1000,
+    "tap_batch_size": 5,
+    "tap_delay_min": 1.0,
+    "tap_delay_max": 2.5,
+    "auto_upgrade_components": true,
+    "auto_upgrade_node_tier": true,
+    "auto_claim_quests": true,
+    "auto_pray": false,
+    "pray_room": "together",
+    "prayer_messages": [
+      "Semoga ekosistem 9Chain semakin sukses, berkah, dan maju untuk semua.",
+      "Wishing health, happiness, and peace for everyone in 9Chain community.",
+      "May this project bring good fortune and growth to all nodes.",
+      "Semoga hari ini penuh berkah dan kelancaran untuk kita semua.",
+      "Peace, prosperity, and blessings to the global 9Chain family.",
+      "Keep building, keep growing, wishing success for 9Chain testnet and mainnet."
+    ]
+  },
+  "accounts": [
+    {
+      "name": "Akun 1",
+      "email": "narita_top_road_177@aniflix.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 2",
+      "email": "mejiro_dober_679@machan.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 3",
+      "email": "gold_ship_448@nukedmail.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 4",
+      "email": "mejiro_bright_284@sewaemail.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 5",
+      "email": "buena_vista_241@genix.eu.org",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 6",
+      "email": "mejiro_bright_337@aniflix.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 7",
+      "email": "admire_vega_654@machan.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 8",
+      "email": "maruzensky_986@nukedmail.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 9",
+      "email": "mejiro_dober_457@zybra.eu.org",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 10",
+      "email": "yukino_bijin_635@indomail.pp.ua",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 11",
+      "email": "sakura_chiyono_o_876@sewaemail.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 12",
+      "email": "tanino_gimlet_104@genix.eu.org",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 13",
+      "email": "kitasan_black_544@zybra.eu.org",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 14",
+      "email": "jungle_pocket_697@indomail.pp.ua",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 15",
+      "email": "tokai_teio_491@machan.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 16",
+      "email": "shinko_windy_858@aniflix.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 17",
+      "email": "air_groove_424@nukedmail.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 18",
+      "email": "nice_nature_631@sewaemail.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 19",
+      "email": "mejiro_bright_361@genix.eu.org",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 20",
+      "email": "meisho_doto_271@sewaemail.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 21",
+      "email": "manhattan_cafe_539@aniflix.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 22",
+      "email": "daring_tact_344@machan.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 23",
+      "email": "maruzensky_378@genix.eu.org",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 24",
+      "email": "seeking_the_pearl_272@sewaemail.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 25",
+      "email": "sweep_tosho_118@nukedmail.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 26",
+      "email": "t_m_opera_o_850@genix.eu.org",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 27",
+      "email": "taiki_shuttle_894@zybra.eu.org",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 28",
+      "email": "mejiro_bright_933@indomail.pp.ua",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 29",
+      "email": "silence_suzuka_629@aniflix.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    },
+    {
+      "name": "Akun 30",
+      "email": "sakura_laurel_163@machan.my.id",
+      "password": "Retrea2@",
+      "totp_code": "",
+      "proxy": ""
+    }
+  ]
+}
